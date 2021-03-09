@@ -2,3 +2,4 @@ welcome to css demo
 
 medium
 prystine
+hotel
