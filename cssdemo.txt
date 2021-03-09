@@ -3,6 +3,7 @@ welcome to css demo
 medium
 prystine
 hotel
-
+school
+park
 
 thank you
